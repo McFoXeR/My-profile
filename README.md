@@ -2,6 +2,7 @@
 My profile github
 <h1 align="center">Hi 👋, I'm Il'nur</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
+(https://raw.githubusercontent.com/Bhai4You/bhai4you/master/msg5780888591-38934.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcfoxer&label=Profile%20views&color=0e75b6&style=flat" alt="mcfoxer" /> </p>
 
